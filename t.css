@@ -1,0 +1,129 @@
+*
+
+h1
+{
+    color: #333;
+    display: inline-block;
+    font-family: 'Freight Sans Bold', Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+    letter-spacing: normal;
+    line-height: 36px;
+    padding: 42px 0 24px;
+    text-rendering: optimizelegibility;
+    width: 456px;
+}
+img{
+    height: 106px;
+    margin: -28px;
+}
+.container{
+    position:absolute;
+    flex-direction: row;
+}
+/* .leftdiv{
+    position: relative;
+    padding-left: 20%;
+    padding :300px;
+} */
+.col-6{
+    position: relative;
+    padding-right: 30%;
+
+
+}
+.content{
+    padding-top: 300px;
+    padding-right: 100px;
+    align-items: left;
+    text-align: left;
+    padding-left: 20%;
+
+}
+h1{
+    width: auto;
+    padding-left: 20%;
+    text-align: left;
+}
+input[type=text],select{
+    background-color: white;
+}
+/* input[type=text], select {
+    width: 38%;
+    padding: 14px 22px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+input[type=password], select {
+    width: 38%;
+    padding: 14px 22px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+} */
+.butto{
+    background-color: #1877f2;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 48px;
+    padding: 0 80px;
+    width: 300px;
+    text-align: center;
+}
+.mb-3{
+    display:block;
+    font-size: 14px;
+    margin: auto;
+    padding: 6px 0;
+    width: 302px;
+}
+.new
+{
+    background-color: #42b72a;
+    /* border-color: #42b72a; */
+border: none;
+    border-radius: 40px;
+    font-size: 20px;
+    line-height: 48px;
+    width: 300px;
+    text-align: center;
+}
+.form {
+        align-items: center;
+        background-color: #fff;
+        border: none;
+        box-sizing: border-box;
+        display: block;
+        /* padding-top: 50%; */
+
+
+    }
+    .col-3{
+        width: 100%;
+    }
+    .forget{
+        margin-left: 25%;
+        background-color: white;
+    }
+    hr{
+        align-items: center;
+    border-bottom: 3px solid #dadde1;
+    display: flex;
+    margin: 20px 16px;
+    text-align: center;
+
+    }
+    .newpage{
+        font-weight: bold;
+        text-align: center;
+    }
+    p{
+        display: inline;
+        margin-top: 20%;
+    }
